@@ -30,30 +30,30 @@ like username, phone number, email, password and address. Later,
 they can signin with their username and password where their
 details would be stored beforehand.
 ##Implementation
--**Setup Development Environment**:
+- **Setup Development Environment**:
 Install Code::Blocks IDE for C programming.Configure Code::Blocks
 to work with GTK, ensuring that you can utilize GTK functions and
 features in your project.
--**Create Project Structure**:
+- **Create Project Structure**:
 •Set up a project directory where you'll organize your source code
 files, headers, and any other resources.Create separate files for
 different aspects of your project, such as main.c for the main
 application logic, product.c for product-related functions, and
 ui.c for user interface functions.
--**Include GTK Library**:
+- **Include GTK Library**:
 • Include the necessary GTK header files in your source code files
 using #include <gtk/gtk.h> directives.
 •Link your project with the GTK library during compilation to
 ensure that GTK functions are available for use.
--**Define Data Structures**:
+- **Define Data Structures**:
 • Define data structures to represent products, such as a struct
 containing fields like name, price, description, and category.
 •Mainly use linked lists, or other data structures to manage
 collections of products.
--**Load Mock Data**:
+- **Load Mock Data**:
 • Create functions to load mock data into memory from predefined
 sources such as text files.
--**User Interface Design**:
+- **User Interface Design**:
 • Design the user interface using GTK widgets such as GtkGrid,
 GtkListBox, GtkDialog, GtkButton, etc.
 •Create functions to initialize and configure UI elements, and
