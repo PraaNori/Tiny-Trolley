@@ -1,0 +1,34 @@
+[biography
+stevejob.png
+stevejob1.png|stevejob2.png|stevejob3.png|Steve Jobs by Walter Isaacson|1299|899|4.6|Simon Schuster|This biography by Walter Isaacson offers an insightful look into the life of Apple co-founder Steve Jobs biography|10|yes
+;
+longwalk.png
+longwalk1.png|longwalk2.png|longwalk3.png|Long Walk to Freedom by Nelson Mandela|1099|799|4.8|Back Bay Books|"Long Walk to Freedom" is the autobiography of Nelson Mandela, the former president of South Africa, chronicling his lifelong fight against apartheid and his eventual triumph in leading the country to democracy biography|0|no
+;
+thediary.png
+thediary1.png|thediary2.png|thediary3.png|The Diary of a Young Girl by Anne Frank|899|599|4.7|Bantam Books|The diary of Anne Frank documents her life in hiding during World War II.|Anne Frank's diary is a poignant and powerful account of a young Jewish girl's experiences during the Holocaust, offering insight into the human spirit and resilience biography|0|no
+;
+leonardo.png
+leonardo1.png|leonardo2.png|leonardo3.png|Leonardo da Vinci by Walter Isaacson|1399|999|4.5|Simon & Schuster|The biography of Leonardo da Vinci explores his genius and creativity.|Walter Isaacson's biography of Leonardo da Vinci delves into the life and work of the Renaissance polymath, revealing his remarkable achievements in art, science, and engineering biography|29|yes
+;
+theautob.png
+theautob1.png|theautob2.png|theautob3.png|The Autobiography of Malcolm X by Malcolm X|1199|899|4.6|Ballantine Books|Malcolm X's autobiography is a compelling narrative of his transformation from a troubled youth to one of the most prominent figures in the fight for civil rights biography|0|no
+;
+]
+[philosophy
+therepub.png
+therepub1.png|therepub2.png|therepub3.png|The Republic by Plato|799|499|4.4|Penguin Classics|Plato's philosophical exploration of justice, politics, and the ideal society in the form of a dialogue.|0|yes
+;
+beyondgo.png
+beyondgo1.png|beyondgo2.png|beyondgo3.png|Beyond Good and Evil by Friedrich Nietzsche|899|599|4.5|Penguin Classics|Nietzsche's critique of traditional morality and exploration of the concepts of good and evil.|0|yes
+;
+critique.png
+critique1.png|critique2.png|critique3.png|Critique of Pure Reason by Immanuel Kant|999|699|4.3|Penguin Classics|Kant's seminal work delving into the nature of human understanding and the limits of reason.|0|yes
+;
+meditations.png
+meditations1.png|meditations2.png|meditations3.png|Meditations by Marcus Aurelius|699|399|4.6|Penguin Classics|Marcus Aurelius' reflections on Stoic philosophy, offering timeless wisdom on virtue, resilience, and inner peace.|0|yes
+;
+thusspok.png
+thusspok1.png|thusspok2.png|thusspok3.png|Thus Spoke Zarathustra by Friedrich Nietzsche|1099|799|4.4|Penguin Classics|Nietzsche's philosophical novel exploring themes of individualism, morality, and the meaning of existence.|0|yes
+;
+]
