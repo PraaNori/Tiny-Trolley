@@ -80,10 +80,10 @@ the trolly icon.
 6. Proceed to checkout to finalize the order.
 7. Optionally, users can clear the cart or continue shopping.
 ## Contribution
-Chinthala Vikas(B23CY1004)
-Vaddi Vamsikrishna Reddy(B23CM1045)
-Jandhyam Sai Sriya(B23CS1021)
-Pradeepika Nori(B23CS1047)
+- Chinthala Vikas(B23CY1004)
+- Vaddi Vamsikrishna Reddy(B23CM1045)
+- Jandhyam Sai Sriya(B23CS1021)
+- Pradeepika Nori(B23CS1047)
 ## Acknowledgments
 - We thank our Dr. Mayank Vatsa for giving us an opportunity to
 showcase our skills.
