@@ -68,7 +68,6 @@ manage user interactions.
 2. Ensure that the GTK library is properly configured in your
 development environment.
 3. Build and run the project.
-   ![Uploading image.png…]()
 
 ## Usage
 1. Upon launching the application, users will be presented with
